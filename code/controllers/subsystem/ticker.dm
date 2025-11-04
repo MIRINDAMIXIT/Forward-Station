@@ -63,7 +63,12 @@ SUBSYSTEM_DEF(ticker)
 	'sound/lobby/sundown.ogg',\
 	'sound/lobby/hanging_masses.ogg',\
 	'sound/lobby/admiral-station-13.ogg',\
-	'sound/lobby/robocop_gb_intro.ogg')
+	'sound/lobby/robocop_gb_intro.ogg',\
+	'sound/music/comethaley.ogg',\
+	'sound/music/marhaba.ogg',\
+	'sound/music/phoronwillmakeusrich.ogg',\
+	'sound/music/thunderdome.ogg',\
+	'sound/music/tintinonthemoon.ogg')
 
 
 /datum/controller/subsystem/ticker/Initialize(timeofday)

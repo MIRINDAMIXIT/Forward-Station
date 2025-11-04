@@ -173,7 +173,7 @@ var/global/bridge_secret = null
 	var/gateway_enabled = 0
 	var/ghost_interaction = 0
 
-	var/python_path = "" //Path to the python executable.  Defaults to "python" on windows and "/usr/bin/env python3" on unix
+	var/python_path = "C:/Program Files/Python312/python.exe" //Path to the python executable.  Defaults to "python" on windows and "/usr/bin/env python3" on unix
 	var/github_token = "" // todo: move this to globals for security
 	var/use_overmap = 0
 
