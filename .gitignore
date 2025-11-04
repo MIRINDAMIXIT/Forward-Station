@@ -9,6 +9,7 @@ taucetistation.dmb
 Thumbs.db
 data/
 cache/
+config/
 cfg/
 keys/
 **/MapFXDrawer/*.png
